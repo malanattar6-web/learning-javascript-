@@ -1,0 +1,21 @@
+let username = "malan";
+const username3 = "using const";
+username = "yusra";
+//let username2='yusra'
+console.log(username);
+let score = 100;
+let score2 = 100.34;
+console.log(score);
+let isLoggedIn = true;
+let isValidUser = false;
+console.log(isLoggedIn);
+let isUdefined;
+console.log(isUdefined);
+let temp = null;
+console.log(temp);
+let obj = { username: yusra, isActive: false };
+console.log(obj);
+console.log(obj.username);
+let array = [24, "malan", true, 100, 11.56];
+console.log(array);
+console.log(array[2]);
